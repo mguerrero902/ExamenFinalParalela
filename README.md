@@ -1,5 +1,5 @@
-# CompParalela
-Repositorio de la clase Computación Distribuida y paralela Parcial 3
+# Examen Final Paralela
+Repositorio de la clase Computación Distribuida y paralela Examen Final
 
 En la carpeta Img se podran vizualizar los resultados graficos con Python 
 
