@@ -1,5 +1,5 @@
-# Examen Final Paralela
-Repositorio de la clase Computación Distribuida y paralela Examen Final
+# Examen Final Computación Paralela y Distribuida
+Repositorio de la clase Computación Paralela y Distribuida Examen Final
 
 En la carpeta Img se podran vizualizar los resultados graficos con Python 
 
